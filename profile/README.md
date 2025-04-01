@@ -18,7 +18,7 @@ This platform is designed to support social networking in both academic and extr
   - TypeScript
   - TailwindCSS
   - Deployed on Vercel
-- Backend
+- [Backend](https://github.com/ku-connect/backend)
   - Node.js
   - TypeScript
   - Express.js
