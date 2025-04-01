@@ -13,7 +13,7 @@ This platform is designed to support social networking in both academic and extr
 
 ## 💻 Tech Stack
 
-- Frontend (PWA)
+- [Frontend (PWA)](https://github.com/ku-connect/frontend)
   - Next.js
   - TypeScript
   - TailwindCSS
