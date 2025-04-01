@@ -27,3 +27,8 @@ KU Connect is an application developed to help Kasetsart University students fin
  ## 🔥 Members
  - [Weerawong Vonggatunyu (Non)](https://github.com/qu1etboy)
  - [Napatsorn Laopitakkul (Toey)](https://github.com/npatsl)
+
+---
+
+> [!NOTE]
+> This project was developed for the Computer Science Project (01418499-65)
